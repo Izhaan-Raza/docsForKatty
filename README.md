@@ -1,6 +1,6 @@
 Here's the updated `README.md` file with a "Usage" section included, so you can copy and paste it directly into your GitHub repository.
 
-```markdown
+
 # Handtrack.js Hand Detection Example
 
 This is an example of how to set up real-time hand detection in the browser using Handtrack.js. This guide provides a simple implementation to detect hands through a webcam feed and display bounding boxes on a canvas.
