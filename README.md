@@ -1,5 +1,1 @@
-### * GO to each file to read the documents*
-
-current docs:
-* 1. HandTracking
-  2. NodeMcu *
+### go to this website for all docs https://izhaan-raza.github.io/techStackDocs/
